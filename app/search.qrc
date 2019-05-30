@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/search"/>
+    <qresource prefix="/background"/>
+    <qresource prefix="/">
+        <file>img/s1200.jpg</file>
+        <file>img/MOJITO.jpg</file>
+    </qresource>
+</RCC>
